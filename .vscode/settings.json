@@ -1,0 +1,6 @@
+{
+    "explorer.fileNesting.patterns": {
+        "*MaterialsGrade.ipynb": "${capture}*.png"
+    },
+    "explorer.fileNesting.enabled": true
+}
